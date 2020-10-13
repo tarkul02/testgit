@@ -6,7 +6,7 @@
 <body>
 
 <div class="xdasd cccc">
-<h1 class="xxx cccc">sssssThis is a Heading</h1>
+<h1 class="">sssssThis is a Heading</h1>
 <p>This is a paragraph.</p>
 </div>
 
